@@ -1,0 +1,24 @@
+normal
+005fd7
+00afff
+00afff
+990000
+ff0000
+00a6b2
+00a6b2
+009900
+999900
+555 brblack
+brgreen
+--underline
+green
+red
+--background=brblue
+bryellow --background=brblack
+white --bold --background=brblack
+white --bold --underline
+
+B3A06D yellow
+brwhite --background=cyan
+--bold
+normal

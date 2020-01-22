@@ -1,0 +1,1 @@
+/home/balazs/.config/fisherman/pwd-is-home/pwd_is_home.fish

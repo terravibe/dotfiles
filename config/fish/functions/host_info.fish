@@ -1,0 +1,1 @@
+/home/balazs/.config/fisherman/host-info/host_info.fish

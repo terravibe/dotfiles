@@ -1,0 +1,1 @@
+/home/balazs/.config/fisherman/prompt-metro/fish_mode_prompt.fish

@@ -1,0 +1,36 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.config/:
+      relink: true
+    ~/.themes:
+      relink: true
+    ~/.fonts:
+      relink: true
+    ~/.icons:
+      relink: true
+    ~/.config/:
+      glob: true
+      path: config/*
+      relink: true
+    ~/fish:
+      relink: true
+    ~/.local/share/backgrounds:
+      glob: true
+      path: local/share/backgrounds
+      relink: true
+    ~/.local/share/gnome-shell:
+      glob: true
+      path: local/share/gnome-shell
+      relink: true
+
+- create:
+    - ~/.vim/undo-history
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
+

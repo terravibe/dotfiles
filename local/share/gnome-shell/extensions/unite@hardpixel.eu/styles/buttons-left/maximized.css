@@ -1,0 +1,22 @@
+.maximized headerbar,
+.maximized .titlebar {
+  padding-left: 0;
+}
+
+.maximized headerbar ~ headerbar,
+.maximized headerbar ~ .titlebar,
+.maximized .titlebar ~ .titlebar,
+.maximized .titlebar ~ headerbar {
+  padding-left: 6px;
+}
+
+.maximized headerbar > box.left,
+.maximized .titlebar > box.left {
+  margin: 0 0 0 -200px;
+  opacity: 0;
+}
+
+.maximized .titlebar.default-decoration {
+  margin: -200px 0 0;
+  opacity: 0;
+}

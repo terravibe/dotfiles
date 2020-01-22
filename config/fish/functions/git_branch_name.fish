@@ -1,0 +1,1 @@
+/home/balazs/.config/fisherman/git-util/git_branch_name.fish

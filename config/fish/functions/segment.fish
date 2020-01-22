@@ -1,0 +1,1 @@
+/home/balazs/.config/fisherman/segment/segment.fish

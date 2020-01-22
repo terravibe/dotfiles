@@ -1,0 +1,1 @@
+/home/balazs/.config/fisherman/pwd-info/pwd_info.fish

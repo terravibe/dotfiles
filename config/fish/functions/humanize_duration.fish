@@ -1,0 +1,1 @@
+/home/balazs/.config/fisherman/humanize-duration/humanize_duration.fish
