@@ -29,8 +29,9 @@
       relink: true
 
 - create:
-    - ~/.vim/undo-history
+    - ~/Apps
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
+  - [chsh -s $(which fish), Making fish the default shell]
 
