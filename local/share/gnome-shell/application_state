@@ -3,25 +3,26 @@
   <context id="">
     <application id="code-oss.desktop" score="2" last-seen="1579708781"/>
     <application id="org.gnome.FileRoller.desktop" score="16" last-seen="1579764255"/>
-    <application id="org.gnome.tweaks.desktop" score="40.25" last-seen="1579649373"/>
-    <application id="google-chrome.desktop" score="9114" last-seen="1579777617"/>
+    <application id="org.gnome.tweaks.desktop" score="48.25" last-seen="1579779622"/>
+    <application id="google-chrome.desktop" score="9253" last-seen="1579782986"/>
     <application id="org.gnome.Screenshot.desktop" score="0" last-seen="1579709699"/>
     <application id="com.github.maoschanz.DynamicWallpaperEditor.desktop" score="0" last-seen="1579708325"/>
-    <application id="steam.desktop" score="3158.5" last-seen="1579775534"/>
+    <application id="steam.desktop" score="3158.5" last-seen="1579777827"/>
     <application id="org.gnome.gThumb.desktop" score="5" last-seen="1579709743"/>
-    <application id="caprine.desktop" score="146.75" last-seen="1579776690"/>
-    <application id="nvidia-settings.desktop" score="3" last-seen="1579368116"/>
-    <application id="teamspeak3.desktop" score="12.5" last-seen="1579722747"/>
-    <application id="org.gnome.gedit.desktop" score="66" last-seen="1579724887"/>
+    <application id="caprine.desktop" score="245.75" last-seen="1579783091"/>
     <application id="gnome-shell-extension-prefs.desktop" score="113.25" last-seen="1579623434"/>
-    <application id="org.gnome.Nautilus.desktop" score="1938" last-seen="1579777412"/>
-    <application id="pamac-manager.desktop" score="2598.5" last-seen="1579724430"/>
+    <application id="teamspeak3.desktop" score="12.5" last-seen="1579722747"/>
+    <application id="org.gnome.gedit.desktop" score="70" last-seen="1579783025"/>
+    <application id="org.gnome.Nautilus.desktop" score="1951" last-seen="1579783022"/>
+    <application id="nvidia-settings.desktop" score="3" last-seen="1579368116"/>
     <application id="org.gnome.font-viewer.desktop" score="0" last-seen="1579614608"/>
-    <application id="org.gnome.Terminal.desktop" score="517.5" last-seen="1579777620"/>
-    <application id="gnome-control-center.desktop" score="30.75" last-seen="1579722778"/>
-    <application id="chromium.desktop" score="22617.25" last-seen="1579649290"/>
+    <application id="pamac-manager.desktop" score="2598.5" last-seen="1579724430"/>
+    <application id="org.gnome.Terminal.desktop" score="883.5" last-seen="1579783075"/>
+    <application id="chromium.desktop" score="22617.25" last-seen="1579779562"/>
     <application id="conky-manager.desktop" score="46" last-seen="1579764438"/>
     <application id="spotify_spotify.desktop" score="156" last-seen="1579551853"/>
+    <application id="gnome-control-center.desktop" score="35.75" last-seen="1579779653"/>
     <application id="net.lutris.Lutris.desktop" score="13" last-seen="1579710736"/>
+    <application id="gnome-keyboard-panel.desktop" score="0" last-seen="0"/>
   </context>
 </application-state>
