@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="mattermost-desktop_mattermost-desktop.desktop" score="30" last-seen="1579881334"/>
-    <application id="code-oss.desktop" score="1146" last-seen="1579881897"/>
+    <application id="mattermost-desktop_mattermost-desktop.desktop" score="33" last-seen="1579882285"/>
+    <application id="code-oss.desktop" score="1174" last-seen="1579882284"/>
     <application id="org.gnome.tweaks.desktop" score="58.25" last-seen="1579858804"/>
     <application id="org.gnome.FileRoller.desktop" score="16" last-seen="1579764255"/>
-    <application id="google-chrome.desktop" score="17614" last-seen="1579881900"/>
+    <application id="google-chrome.desktop" score="17627" last-seen="1579882210"/>
     <application id="org.gnome.Screenshot.desktop" score="1" last-seen="1579861191"/>
     <application id="electron.desktop" score="0" last-seen="1579783543"/>
     <application id="polychromatic-controller.desktop" score="29" last-seen="1579858168"/>
