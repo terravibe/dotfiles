@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="mattermost-desktop_mattermost-desktop.desktop" score="508" last-seen="1579886534"/>
+    <application id="mattermost-desktop_mattermost-desktop.desktop" score="520" last-seen="1579887455"/>
     <application id="code-oss.desktop" score="1198" last-seen="1579886466"/>
     <application id="org.gnome.tweaks.desktop" score="58.25" last-seen="1579858804"/>
     <application id="org.gnome.FileRoller.desktop" score="16" last-seen="1579764255"/>
-    <application id="google-chrome.desktop" score="17713" last-seen="1579883432"/>
+    <application id="google-chrome.desktop" score="17830" last-seen="1579887472"/>
     <application id="org.gnome.Screenshot.desktop" score="1" last-seen="1579861191"/>
     <application id="electron.desktop" score="0" last-seen="1579783543"/>
     <application id="polychromatic-controller.desktop" score="29" last-seen="1579858168"/>
@@ -15,14 +15,14 @@
     <application id="com.github.maoschanz.DynamicWallpaperEditor.desktop" score="0" last-seen="1579708325"/>
     <application id="org.gnome.Nautilus.desktop" score="2168" last-seen="1579878498"/>
     <application id="org.gnome.gedit.desktop" score="70" last-seen="1579783333"/>
-    <application id="gnome-shell-extension-prefs.desktop" score="139.25" last-seen="1579858961"/>
+    <application id="gnome-shell-extension-prefs.desktop" score="140.25" last-seen="1579887469"/>
     <application id="pamac-manager.desktop" score="2606.5" last-seen="1579860618"/>
     <application id="nvidia-settings.desktop" score="3" last-seen="1579368116"/>
     <application id="org.gnome.font-viewer.desktop" score="0" last-seen="1579614608"/>
     <application id="teamspeak3.desktop" score="16.5" last-seen="1579802655"/>
     <application id="gnome-control-center.desktop" score="48.75" last-seen="1579858651"/>
     <application id="chromium.desktop" score="22617.25" last-seen="1579779562"/>
-    <application id="org.gnome.Terminal.desktop" score="1083.5" last-seen="1579886474"/>
+    <application id="org.gnome.Terminal.desktop" score="1083.5" last-seen="1579887416"/>
     <application id="conky-manager.desktop" score="46" last-seen="1579764438"/>
     <application id="spotify_spotify.desktop" score="156" last-seen="1579551853"/>
     <application id="net.lutris.Lutris.desktop" score="13" last-seen="1579710736"/>
