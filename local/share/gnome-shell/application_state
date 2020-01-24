@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="mattermost-desktop_mattermost-desktop.desktop" score="520" last-seen="1579887455"/>
+    <application id="mattermost-desktop_mattermost-desktop.desktop" score="525" last-seen="1579887906"/>
     <application id="code-oss.desktop" score="1198" last-seen="1579886466"/>
     <application id="org.gnome.tweaks.desktop" score="58.25" last-seen="1579858804"/>
     <application id="org.gnome.FileRoller.desktop" score="16" last-seen="1579764255"/>
-    <application id="google-chrome.desktop" score="17830" last-seen="1579887472"/>
+    <application id="google-chrome.desktop" score="17841" last-seen="1579887908"/>
     <application id="org.gnome.Screenshot.desktop" score="1" last-seen="1579861191"/>
     <application id="electron.desktop" score="0" last-seen="1579783543"/>
     <application id="polychromatic-controller.desktop" score="29" last-seen="1579858168"/>
@@ -13,9 +13,9 @@
     <application id="org.gnome.gThumb.desktop" score="8" last-seen="1579861225"/>
     <application id="caprine.desktop" score="329.75" last-seen="1579882705"/>
     <application id="com.github.maoschanz.DynamicWallpaperEditor.desktop" score="0" last-seen="1579708325"/>
-    <application id="org.gnome.Nautilus.desktop" score="2168" last-seen="1579878498"/>
+    <application id="org.gnome.Nautilus.desktop" score="2168" last-seen="1579887909"/>
     <application id="org.gnome.gedit.desktop" score="70" last-seen="1579783333"/>
-    <application id="gnome-shell-extension-prefs.desktop" score="140.25" last-seen="1579887469"/>
+    <application id="gnome-shell-extension-prefs.desktop" score="184.25" last-seen="1579887782"/>
     <application id="pamac-manager.desktop" score="2606.5" last-seen="1579860618"/>
     <application id="nvidia-settings.desktop" score="3" last-seen="1579368116"/>
     <application id="org.gnome.font-viewer.desktop" score="0" last-seen="1579614608"/>
