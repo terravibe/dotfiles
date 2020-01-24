@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="mattermost-desktop_mattermost-desktop.desktop" score="36" last-seen="1579882515"/>
-    <application id="code-oss.desktop" score="1175" last-seen="1579882419"/>
+    <application id="mattermost-desktop_mattermost-desktop.desktop" score="64" last-seen="1579882916"/>
+    <application id="code-oss.desktop" score="1181" last-seen="1579882896"/>
     <application id="org.gnome.tweaks.desktop" score="58.25" last-seen="1579858804"/>
     <application id="org.gnome.FileRoller.desktop" score="16" last-seen="1579764255"/>
-    <application id="google-chrome.desktop" score="17658" last-seen="1579882592"/>
+    <application id="google-chrome.desktop" score="17663" last-seen="1579882864"/>
     <application id="org.gnome.Screenshot.desktop" score="1" last-seen="1579861191"/>
     <application id="electron.desktop" score="0" last-seen="1579783543"/>
     <application id="polychromatic-controller.desktop" score="29" last-seen="1579858168"/>
     <application id="steam.desktop" score="3257.5" last-seen="1579879329"/>
     <application id="org.gnome.gThumb.desktop" score="8" last-seen="1579861225"/>
-    <application id="caprine.desktop" score="329.75" last-seen="1579877278"/>
+    <application id="caprine.desktop" score="329.75" last-seen="1579882705"/>
     <application id="com.github.maoschanz.DynamicWallpaperEditor.desktop" score="0" last-seen="1579708325"/>
     <application id="org.gnome.Nautilus.desktop" score="2168" last-seen="1579878498"/>
     <application id="org.gnome.gedit.desktop" score="70" last-seen="1579783333"/>
@@ -26,7 +26,7 @@
     <application id="conky-manager.desktop" score="46" last-seen="1579764438"/>
     <application id="spotify_spotify.desktop" score="156" last-seen="1579551853"/>
     <application id="net.lutris.Lutris.desktop" score="13" last-seen="1579710736"/>
-    <application id="gitkraken_gitkraken.desktop" score="39" last-seen="1579882417"/>
+    <application id="gitkraken_gitkraken.desktop" score="39" last-seen="1579882703"/>
     <application id="org.manjaro.pamac.manager.desktop" score="0" last-seen="0"/>
   </context>
 </application-state>
