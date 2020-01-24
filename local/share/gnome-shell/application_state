@@ -8,7 +8,7 @@
     <application id="chromium.desktop" score="22617.25" last-seen="1579779562"/>
     <application id="polychromatic-controller.desktop" score="29" last-seen="1579858168"/>
     <application id="caprine.desktop" score="330.75" last-seen="1579898097"/>
-    <application id="steam.desktop" score="3266.5" last-seen="1579899741"/>
+    <application id="steam.desktop" score="3267.5" last-seen="1579899988"/>
     <application id="gitkraken_gitkraken.desktop" score="39" last-seen="1579882703"/>
     <application id="org.manjaro.pamac.manager.desktop" score="0" last-seen="0"/>
     <application id="code-oss.desktop" score="1198" last-seen="1579886466"/>
@@ -16,14 +16,14 @@
     <application id="gnome-shell-extension-prefs.desktop" score="184.25" last-seen="1579887782"/>
     <application id="org.gnome.Screenshot.desktop" score="1" last-seen="1579861191"/>
     <application id="org.gnome.font-viewer.desktop" score="0" last-seen="1579614608"/>
-    <application id="teamspeak3.desktop" score="16.5" last-seen="1579802655"/>
+    <application id="teamspeak3.desktop" score="18.5" last-seen="1579900184"/>
     <application id="nvidia-settings.desktop" score="3" last-seen="1579368116"/>
     <application id="spotify_spotify.desktop" score="156" last-seen="1579551853"/>
     <application id="org.gnome.Terminal.desktop" score="1083.5" last-seen="1579887416"/>
     <application id="org.gnome.Nautilus.desktop" score="2168" last-seen="1579887909"/>
     <application id="org.gnome.FileRoller.desktop" score="16" last-seen="1579764255"/>
     <application id="mattermost-desktop_mattermost-desktop.desktop" score="525" last-seen="1579898095"/>
-    <application id="google-chrome.desktop" score="18562" last-seen="1579899729"/>
+    <application id="google-chrome.desktop" score="18596" last-seen="1579900148"/>
     <application id="com.github.maoschanz.DynamicWallpaperEditor.desktop" score="0" last-seen="1579708325"/>
     <application id="conky-manager.desktop" score="46" last-seen="1579764438"/>
     <application id="org.gnome.gedit.desktop" score="70" last-seen="1579783333"/>
