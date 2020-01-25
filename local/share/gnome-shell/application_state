@@ -8,7 +8,7 @@
     <application id="chromium.desktop" score="11308.625" last-seen="1579779562"/>
     <application id="polychromatic-controller.desktop" score="14.5" last-seen="1579858168"/>
     <application id="caprine.desktop" score="168.375" last-seen="1579981693"/>
-    <application id="steam.desktop" score="1643.75" last-seen="1579980770"/>
+    <application id="steam.desktop" score="1643.75" last-seen="1579982228"/>
     <application id="gitkraken_gitkraken.desktop" score="19.5" last-seen="1579945984"/>
     <application id="org.manjaro.pamac.manager.desktop" score="0" last-seen="0"/>
     <application id="code-oss.desktop" score="599" last-seen="1579886466"/>
@@ -17,13 +17,13 @@
     <application id="org.gnome.Screenshot.desktop" score="0.5" last-seen="1579861191"/>
     <application id="org.gnome.font-viewer.desktop" score="0" last-seen="1579614608"/>
     <application id="teamspeak3.desktop" score="9.25" last-seen="1579902428"/>
-    <application id="nvidia-settings.desktop" score="1.5" last-seen="1579368116"/>
+    <application id="nvidia-settings.desktop" score="3.5" last-seen="1579982189"/>
     <application id="spotify_spotify.desktop" score="78" last-seen="1579551853"/>
     <application id="org.gnome.Terminal.desktop" score="823.75" last-seen="1579979855"/>
     <application id="org.gnome.Nautilus.desktop" score="1095" last-seen="1579966711"/>
     <application id="org.gnome.FileRoller.desktop" score="8" last-seen="1579764255"/>
     <application id="mattermost-desktop_mattermost-desktop.desktop" score="263.5" last-seen="1579970702"/>
-    <application id="google-chrome.desktop" score="15156" last-seen="1579981756"/>
+    <application id="google-chrome.desktop" score="15158" last-seen="1579982215"/>
     <application id="com.github.maoschanz.DynamicWallpaperEditor.desktop" score="0" last-seen="1579708325"/>
     <application id="conky-manager.desktop" score="23" last-seen="1579764438"/>
     <application id="org.gnome.gedit.desktop" score="64" last-seen="1579966710"/>
