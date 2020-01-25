@@ -7,30 +7,38 @@
 - link:
     ~/.config/:
       relink: true
+      force: true
     ~/.themes:
       relink: true
+      force: true
     ~/.fonts:
       relink: true
+      force: true
     ~/.icons:
       relink: true
+      force: true
     ~/.config/:
       glob: true
       path: config/*
       relink: true
+      force: true
     ~/fish:
       relink: true
     ~/.local/share/backgrounds:
       glob: true
       path: local/share/backgrounds
       relink: true
+      force: true
     ~/.local/share/gnome-shell:
       glob: true
       path: local/share/gnome-shell
       relink: true
+      force: true
     ~/.conky:
       glob: true
       path: conky/*
       relink: true
+      force: true
 
 - create:
     - ~/Apps
