@@ -27,6 +27,10 @@
       glob: true
       path: local/share/gnome-shell
       relink: true
+    ~/.conky:
+      glob: true
+      path: conky/*
+      relink: true
 
 - create:
     - ~/Apps

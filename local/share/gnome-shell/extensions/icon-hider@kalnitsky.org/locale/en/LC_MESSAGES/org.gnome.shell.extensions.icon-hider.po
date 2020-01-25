@@ -1,0 +1,35 @@
+# English translation file for Icon Hider.
+# Copyright (C) 2016 Igor Kalnitsky
+# This file is distributed under the same license as the Icon Hider.
+# Igor Kalnitsky <igor@kalnitsky.org>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-16 18:55+0200\n"
+"PO-Revision-Date: 2016-02-16 18:59+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: Igor Kalnitsky <igor@kalnitsky.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: en\n"
+
+#: extension.js:92
+msgid "Settings"
+msgstr "Settings"
+
+#: prefs.js:56
+msgid "Show/Hide icons"
+msgstr "Show/Hide icons"
+
+#: prefs.js:93
+msgid "Utils"
+msgstr "Utils"
+
+#: prefs.js:104
+msgid "Show extension's indicator"
+msgstr "Show extension's indicator"
