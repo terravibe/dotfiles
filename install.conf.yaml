@@ -44,6 +44,8 @@
     - ~/Apps
 
 - shell:
+  - [sudo packman -S yay, Installing yay]
+  - [yay -Syu, Updating packages]
   - [git submodule update --init --recursive, Installing submodules]
   - [chsh -s $(which fish), Making fish the default shell]
 
