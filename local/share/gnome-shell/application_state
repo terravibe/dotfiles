@@ -1,32 +1,15 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="gnome-control-center.desktop" score="24.375" last-seen="1579858651"/>
-    <application id="org.gnome.gThumb.desktop" score="4" last-seen="1579861225"/>
-    <application id="net.lutris.Lutris.desktop" score="6.5" last-seen="1579710736"/>
-    <application id="org.gnome.tweaks.desktop" score="29.125" last-seen="1579858804"/>
-    <application id="chromium.desktop" score="11308.625" last-seen="1579779562"/>
-    <application id="polychromatic-controller.desktop" score="16.5" last-seen="1579985815"/>
-    <application id="caprine.desktop" score="168.375" last-seen="1580032207"/>
-    <application id="steam.desktop" score="1667.75" last-seen="1580038288"/>
-    <application id="gitkraken_gitkraken.desktop" score="19.5" last-seen="1579945984"/>
+    <application id="teamspeak3.desktop" score="2.303375244140625" last-seen="1581709976"/>
+    <application id="steam.desktop" score="1642.3610534667969" last-seen="1581870797"/>
+    <application id="spotify_spotify.desktop" score="63.5" last-seen="1581846553"/>
+    <application id="polychromatic-controller.desktop" score="0.51605224609375" last-seen="1581620163"/>
+    <application id="nvidia-settings.desktop" score="27.5" last-seen="1581802444"/>
+    <application id="google-chrome.desktop" score="21525.307983398438" last-seen="1581870817"/>
+    <application id="caprine.desktop" score="2.2754364013671875" last-seen="1581364004"/>
     <application id="org.manjaro.pamac.manager.desktop" score="0" last-seen="0"/>
-    <application id="code-oss.desktop" score="599" last-seen="1579886466"/>
-    <application id="electron.desktop" score="0" last-seen="1579783543"/>
-    <application id="gnome-shell-extension-prefs.desktop" score="92.125" last-seen="1579887782"/>
-    <application id="org.gnome.Screenshot.desktop" score="0.5" last-seen="1579861191"/>
-    <application id="org.gnome.font-viewer.desktop" score="0" last-seen="1579614608"/>
-    <application id="teamspeak3.desktop" score="9.25" last-seen="1579902428"/>
-    <application id="nvidia-settings.desktop" score="3.5" last-seen="1580032123"/>
-    <application id="spotify_spotify.desktop" score="78" last-seen="1579551853"/>
-    <application id="org.gnome.Terminal.desktop" score="823.75" last-seen="1579979855"/>
-    <application id="org.gnome.Nautilus.desktop" score="1095" last-seen="1579966711"/>
-    <application id="org.gnome.FileRoller.desktop" score="8" last-seen="1579764255"/>
-    <application id="mattermost-desktop_mattermost-desktop.desktop" score="263.5" last-seen="1579970702"/>
-    <application id="google-chrome.desktop" score="22668" last-seen="1580038276"/>
-    <application id="com.github.maoschanz.DynamicWallpaperEditor.desktop" score="0" last-seen="1579708325"/>
-    <application id="conky-manager.desktop" score="23" last-seen="1579764438"/>
-    <application id="org.gnome.gedit.desktop" score="64" last-seen="1579966710"/>
-    <application id="pamac-manager.desktop" score="1316.25" last-seen="1579966618"/>
+    <application id="manjaro-settings-manager.desktop" score="1.578125" last-seen="1581802435"/>
+    <application id="pamac-manager.desktop" score="10.274200439453125" last-seen="1581870858"/>
   </context>
 </application-state>
